@@ -1,0 +1,13 @@
+#Sun May 05 17:44:06 CST 2024
+path.3=14/classes.dex
+path.2=10/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=/Users/effs/Library/Mobile Documents/com~apple~CloudDocs/TÉCNICO UNIVERSITARIO EN DISEÑO Y DESARROLLO WEB/2024/Q2/DesarrolloMovilI/Tareas/DMI-S3T1/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.2=/Users/effs/Library/Mobile Documents/com~apple~CloudDocs/TÉCNICO UNIVERSITARIO EN DISEÑO Y DESARROLLO WEB/2024/Q2/DesarrolloMovilI/Tareas/DMI-S3T1/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+base.1=/Users/effs/Library/Mobile Documents/com~apple~CloudDocs/TÉCNICO UNIVERSITARIO EN DISEÑO Y DESARROLLO WEB/2024/Q2/DesarrolloMovilI/Tareas/DMI-S3T1/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/Users/effs/Library/Mobile Documents/com~apple~CloudDocs/TÉCNICO UNIVERSITARIO EN DISEÑO Y DESARROLLO WEB/2024/Q2/DesarrolloMovilI/Tareas/DMI-S3T1/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
